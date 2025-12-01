@@ -41,3 +41,9 @@ No message when hovered over:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 [no message]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+
+
+Paragraph1 ()
+
+Paragraph2
+newline (still within paragraph 2?)
